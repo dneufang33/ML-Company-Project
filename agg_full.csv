@@ -1,0 +1,4 @@
+agg_full.csv filter=lfs diff=lfs merge=lfs -text
+agg_full_max_5.csv filter=lfs diff=lfs merge=lfs -text
+agg_full_with_tsfresh.csv filter=lfs diff=lfs merge=lfs -text
+tsfresh_results_*.csv filter=lfs diff=lfs merge=lfs -text
